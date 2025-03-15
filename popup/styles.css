@@ -1,0 +1,19 @@
+.container {
+  /* padding: 15px; */
+  min-width: 300px;
+}
+
+button {
+  background: #2ecc71;
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.downloadButtons {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
